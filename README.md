@@ -15,11 +15,11 @@ The objective of the project is to implement a network join and routing algorith
 ## Execution
 
 **Compile:** ```c(project3).```   
-**Execute:** ``` project3:main(N, R).```   
+**Execute:** ```project3:main(N, R).```   
 * *N - Network Size (Number of Nodes)*  
 * *R - Number of Requests*  
 
 ## Reports 
   
-Main Report  
-Bonus Implementation
+[Main Report](https://github.com/pranath-reddy/COP5615-Chord/blob/main/Report.pdf)  
+[Bonus Implementation](https://github.com/pranath-reddy/COP5615-Chord/blob/main/Report-bonus.pdf)
